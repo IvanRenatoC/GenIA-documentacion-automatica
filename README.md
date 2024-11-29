@@ -6,8 +6,8 @@ In the fast-paced world of software development, and more specifically in the re
  
 ❓ Why is documentation so important in CI/CD for Machine Learning?
 
-🔬 Reproducibility: Documentation allows any team member, present or future, to replicate an experiment or a model from scratch. This is crucial for verifying results, debugging errors, and making comparisons between different versions.
-🔬 Transparency: By documenting each stage of the process, transparency and traceability of decisions made are ensured. This facilitates auditing and the identification of potential areas for improvement.
+- 🔬 Reproducibility: Documentation allows any team member, present or future, to replicate an experiment or a model from scratch. This is crucial for verifying results, debugging errors, and making comparisons between different versions.
+- 🔬 Transparency: By documenting each stage of the process, transparency and traceability of decisions made are ensured. This facilitates auditing and the identification of potential areas for improvement.
 🔬 Scalability: As Machine Learning projects grow in complexity, documentation becomes even more essential to maintain control over the different components and dependencies.
 🔬 Collaboration: Documentation fosters collaboration among teams, as it provides a common reference point for everyone involved.
 🔬 Maintenance: By documenting processes, the maintenance and updating of models over time is facilitated.
